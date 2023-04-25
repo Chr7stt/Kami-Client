@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Created by l1ving on 17/11/20
+# Created by Chr7st on 17/11/20
 #
 # echos the current version.
 #
